@@ -1,0 +1,2 @@
+# cross compile
+需要修改　inc.mk 和　PullerModule 下Makefile文件(根据文件内容提示)
